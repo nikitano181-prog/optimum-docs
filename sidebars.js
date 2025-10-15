@@ -14,7 +14,7 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   docsSidebar: [
-    "momentum/index",
+    "momentum/overview",
     { type: "doc", id: "momentum/overview", label: "1. Резюме проекта" },
     { type: "doc", id: "momentum/overview", label: "2. Ценность и сценарии" },
     { type: "doc", id: "momentum/overview", label: "3. Архитектура и стек" },
